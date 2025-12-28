@@ -23,7 +23,7 @@ export const DATA = [
   },
   {
     "id": 1,
-    "nom": "Kryptonite",
+    "nom": "Kryptonited",
     "descriptionCourte": "Tomate verte intense au caractère affirmé.",
     "descriptionLongue": "La Kryptonite est une variété moderne à fruits verts à maturité. Sa chair dense et juteuse développe une saveur riche et équilibrée, mêlant douceur et légère acidité.\n\nElle séduit les amateurs de tomates originales par sa couleur inhabituelle. ",
     "origine": "États-Unis 🇺🇸",
